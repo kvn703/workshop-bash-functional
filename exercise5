@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#create a function that prints hello world
-
 function hello_world {
     echo "Hello World"
 }
